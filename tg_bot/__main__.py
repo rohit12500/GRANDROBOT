@@ -144,7 +144,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                                                                                    InlineKeyboardButton(text="🧑‍💻My Creator🧑‍💻",
                                                                        url="")],
                                                                                    [InlineKeyboardButton(text="RED_CHIP TO YOUR GROUP",
-                                                                       url="t.me@kiddoo_of_telegram/{}?startgroup=true".format(bot.username)),
+                                                                       url="t.mekiddoo_of_telegram/{}?startgroup=true".format(bot.username)),
                                                                                    InlineKeyboardButton(text="Source Code",
                                                                        url="https://github.com/legendx22/GRANDROBOT")
                                                                                  ]]))
